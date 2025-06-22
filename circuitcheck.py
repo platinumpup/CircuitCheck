@@ -47,7 +47,7 @@ ROOM_URLS = {
     "Pregame": "https://zoom.us/thispagedoesnotexist",
     "PЯIMΞ": "https://zoom.us/thispagedoesnotexist",
     "pupCULTURE": "https://susnation.live/",
-    "TLR": "http://zoom.us/my/mipnp",
+    "TLR": "https://zoom.us/thispagedoesnotexist",
     "This Place": "https://zoom.us/thispagedoesnotexist",
     "TwackCity": "https://twack-city.com/",
     "SHOWOFF": "https://tr.ee/701",
