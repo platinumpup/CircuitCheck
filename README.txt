@@ -50,5 +50,5 @@ v. If it’s closed, please try again later.
 └──────────────┐
 	platinum_pup@proton.me
 
-ZoomChecker 
-(𝗏.𝟣.𝟢.𝟢)©²⁰²⁵  
+CircuitCheck©²⁰²⁵ 
+(𝗏𝟣.𝟢.𝟢) 
